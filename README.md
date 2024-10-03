@@ -2,12 +2,9 @@
 
 **[×]** `apt update`
 
-
 **[×]** `apt upgrade`
 
-
 **[×]** `pkg install git`
-
 
 **[×]** `pkg install python`
 
@@ -15,12 +12,12 @@
 
 **[×]** `pip install colorama`
 
-**[×]** `git clone https://github.com/NuIICoder/SmsBomber`
+**[×]** `git clone https://github.com/NuIICoder/Group-Bug`
 
 **[×]** `ls`
 
-**[×]** `cd smsbomber`
+**[×]** `cd Group-Bug`
 
-**[×]** `python Bomber.py`
+**[×]** `python Bug.py`
 
  🖇[**NoneCoder**](https://t.me/NoneCoder)
